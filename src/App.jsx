@@ -148,6 +148,11 @@ function Hero() {
         <div className="image-glow"></div>
 
         <div className="profile-card">
+          <img
+  src={`${import.meta.env.BASE_URL}profile.jpg`}
+  alt="Krushna Chandre"
+  className="profile-photo"
+/>
           <img src="/profile.jpg" alt="Krushna Chandre" />
         </div>
 
