@@ -101,7 +101,7 @@ function Navbar() {
         <a href="#contact">Contact</a>
       </div>
 
-      <a href="8208912993" className="nav-button">
+      <a href="918208912993" className="nav-button">
         Let's Talk <i className="fa-solid fa-arrow-up-right-from-square"></i>
       </a>
     </nav>
@@ -310,7 +310,7 @@ function Projects() {
 
 function Contact() {
   return (
-    <section className="section contact-section" id="8208912993">
+    <section className="section contact-section" id="918208912993">
       <SectionTitle
         label="GET IN TOUCH"
         title="Let's Connect"
