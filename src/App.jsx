@@ -101,7 +101,7 @@ function Navbar() {
         <a href="#contact">Contact</a>
       </div>
 
-      <a href="#contact" className="nav-button">
+      <a href="8208912993" className="nav-button">
         Let's Talk <i className="fa-solid fa-arrow-up-right-from-square"></i>
       </a>
     </nav>
@@ -328,10 +328,10 @@ function Contact() {
           {/* Replace these with your actual contact details */}
           <a href="krushnachandre5448@gmail.com">
             <i className="fa-solid fa-envelope"></i>
-            YOUR_EMAIL@gmail.com
+            krushnachandre5448@gmail.com
           </a>
 
-          <a href="https://wa.me/8208912993">
+          <a href="https://wa.me/+91 8208912993">
             <i className="fa-brands fa-whatsapp"></i>
             WhatsApp
           </a>
